@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "sled-record",
+  "sled-record-derive",
+]
